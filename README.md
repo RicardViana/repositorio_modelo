@@ -1,8 +1,6 @@
-# 📂 Estrutura de Projeto e Arquivos de Configuração
+## 📂 Estrutura de Projeto e Arquivos de Configuração
 
 Este documento descreve a organização das pastas e a finalidade dos arquivos de configuração encontrados neste repositório.
-
----
 
 ## 🏛️ Estrutura de Pastas (Padrão Cookiecutter Data Science)
 
